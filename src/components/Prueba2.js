@@ -5,7 +5,7 @@ export class Prueba2 extends Component{
     render(){
         return(
             <div>
-                <h1>HEYYYYY</h1>
+                <h1>HEY NOW HEY NOW</h1>
             </div>
         )
     }
