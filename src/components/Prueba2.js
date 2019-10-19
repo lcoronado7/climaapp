@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-export class Prueba extends Component{
+export class Prueba2 extends Component{
 
     render(){
         return(
             <div>
-                <h1>HOLAAAAAA</h1>
+                <h1>HEYYYYY</h1>
             </div>
         )
     }
 }
 
-export default  Prueba;
+export default  Prueba2;
